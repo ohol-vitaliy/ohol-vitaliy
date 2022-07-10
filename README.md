@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @ohol-vitaliy
-- 👀 I’m interested in smart home, quadcopters, planes, fixed wings and other potential rc/fpv aircraft
+- 👀 I’m interested in IOT, quadcopters, planes, fixed wings and other potential rc/fpv aircraft
 - 🌱 I’m currently learning IOT stuff and avr/stm programming 
 
 <!---
