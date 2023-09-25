@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @ohol-vitaliy
-- 👀 I’m interested in IOT, quadcopters, planes, fixed wings and other potential rc/fpv aircraft
-- 🌱 I’m currently learning IOT stuff and avr/stm programming 
+- 👀 I’m interested in IOT and RC planes
 
 <!---
 ohol-vitaliy/ohol-vitaliy is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
